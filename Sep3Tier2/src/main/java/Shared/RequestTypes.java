@@ -1,0 +1,20 @@
+package Shared;
+
+public enum RequestTypes
+{
+
+    LOGIN,
+    REGISTER,
+    EDITINFO,
+    SENDMESSAGE,
+    GETUSERINFO,
+    GETREQUEST,
+    GETFRIENDS,
+    DELETE,
+    LOGOUT,
+    AGREE,
+    SENDFRIENDREQUEST,
+    GETALLUSERS,
+    SEARCHUSERS,
+    GETMESSAGES,
+}
