@@ -7,5 +7,7 @@ namespace Tier1.Data
     {
               List<Message> getAllMessages(string username1, string username2);
               void sendMessage(Message chatMessage);
+              
+              //buhuiba
     }
 }

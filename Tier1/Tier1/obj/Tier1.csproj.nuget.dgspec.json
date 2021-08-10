@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lsy19\\RiderProjects\\Tier1\\Tier1\\Tier1.csproj": {}
+    "D:\\Sep3Master\\Tier1\\Tier1\\Tier1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lsy19\\RiderProjects\\Tier1\\Tier1\\Tier1.csproj": {
+    "D:\\Sep3Master\\Tier1\\Tier1\\Tier1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lsy19\\RiderProjects\\Tier1\\Tier1\\Tier1.csproj",
+        "projectUniqueName": "D:\\Sep3Master\\Tier1\\Tier1\\Tier1.csproj",
         "projectName": "Tier1",
-        "projectPath": "C:\\Users\\lsy19\\RiderProjects\\Tier1\\Tier1\\Tier1.csproj",
+        "projectPath": "D:\\Sep3Master\\Tier1\\Tier1\\Tier1.csproj",
         "packagesPath": "C:\\Users\\lsy19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lsy19\\RiderProjects\\Tier1\\Tier1\\obj\\",
+        "outputPath": "D:\\Sep3Master\\Tier1\\Tier1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lsy19\\AppData\\Roaming\\NuGet\\NuGet.Config"
